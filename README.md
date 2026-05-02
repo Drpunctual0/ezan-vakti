@@ -2,6 +2,10 @@
 
 Windows görev çubuğunda çalışan, namaz vakitlerini takip eden sade bir masaüstü uygulaması.
 
+
+![Uygulama](assets/ss1.png)
+
+
 Namaz vakitlerini ayrı bir uygulama açıp bakmak yerine, ekranın sağ alt köşesinde her an görmek istedim. Bir sonraki vakite kalan süre ikonun üzerinde yazıyor, vakit yaklaşınca bildirim geliyor.
 
 ---
@@ -14,6 +18,15 @@ Namaz vakitlerini ayrı bir uygulama açıp bakmak yerine, ekranın sağ alt kö
 - Bilgisayar açılışında otomatik başlar
 - İnternet kesilse bile gün boyu cache'den çalışmaya devam eder
 - Konum otomatik tespit edilir, istenirse elle de girilebilir
+
+![Uygulama](assets/ss2.png)
+
+
+
+
+![Uygulama](assets/ss3.png)
+
+
 
 ---
 
@@ -57,9 +70,7 @@ Namaz vakitleri [Aladhan API](https://aladhan.com/prayer-times-api) üzerinden, 
 
 
 
-![Uygulama](assets/ss1.png)
-![Uygulama](assets/ss2.png)
-![Uygulama](assets/ss3.png)
+
 
 ---
 
