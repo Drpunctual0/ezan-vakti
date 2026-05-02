@@ -53,3 +53,13 @@ pyinstaller ezan_vakti.spec
 
 Namaz vakitleri [Aladhan API](https://aladhan.com/prayer-times-api) üzerinden, Diyanet metodu (Method 13) ile hesaplanıyor.
 
+---
+
+
+
+![Uygulama](assets/ss1.png)
+![Uygulama](assets/ss2.png)
+![Uygulama](assets/ss3.png)
+
+---
+
